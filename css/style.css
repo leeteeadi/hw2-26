@@ -1,6 +1,4 @@
-/* General Stylesheet for HW2 Simple CSS Project */
-
-/* body */
+/* --- body --- */
 body {
     font-family: Arial, Verdana, sans-serif;
     background-color: #000000;
@@ -10,7 +8,7 @@ body {
     font-size: 42px;
 }
 
-/* headings */
+/* --- headings --- */
 h1{
     font-size: 42px;
     text-align: center;
@@ -22,13 +20,13 @@ h2{
     color: #0D0D0D;
 }
 
-/* paragraphs */
+/* --- paragraphs --- */
 p {
     font-size: 24px;
     padding: 10px 0px 0px 10px;
 }
 
-/* images */
+/* --- images --- */
 img {
     width: 250px;
     display: block;
@@ -37,21 +35,21 @@ img {
     border-color: #ffffff;
     border-width: 10px;
 }
-/* divs */
+/* --- divs --- */
 div {
     min-height: 125px;
     padding: 20px;
     border: 3px solid #ffffff;
 }
 
-/* introduction */
+/* --- introduction --- */
 .intro {
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
 }
 
-/* red class */
+/* --- red class --- */
 .red {
   background-color: #ff0000;
   text-align: right;
@@ -60,7 +58,7 @@ div {
   border-left: 5px solid #ffffff;
 }
 
-/* blue class */
+/* --- blue class --- */
 .blue {
   background-color: #0000ff;
   text-align: left;
@@ -69,14 +67,14 @@ div {
   border-top: 2px solid #ffffff;
 }
 
-/* blue heading */
+/* --- blue heading --- */
 .blue h1,
 .blue h2,
 .blue p {
   color: #C4C4C4;
 }
 
-/* yellow class */
+/* --- yellow class --- */
 .yellow {
   background-color: #ffff00;
   text-align: right;
@@ -86,7 +84,7 @@ div {
   color: #707070;
 }
 
-/* green class */
+/* --- green class --- */
 .green {
   background-color: #008500;
   text-align: left;
@@ -95,7 +93,7 @@ div {
   border-top: 2px solid #ffffff;
 }
 
-/* footer */
+/* --- footer --- */
 footer {
   background: linear-gradient(
     to right,
@@ -107,7 +105,7 @@ footer {
   border: 5px solid #ffffff;
 }
 
-/* footer paragraph */
+/* --- footer paragraph --- */
 footer p {
   font-size: 20px;
   text-align: right;
