@@ -21,13 +21,13 @@ h2{
 }
 
 /* --- paragraphs --- */
-p {
+p{
     font-size: 24px;
     padding: 10px 0px 0px 10px;
 }
 
 /* --- images --- */
-img {
+img{
     width: 250px;
     display: block;
     margin: 0 auto;
@@ -36,21 +36,21 @@ img {
     border-width: 10px;
 }
 /* --- divs --- */
-div {
+div{
     min-height: 125px;
     padding: 20px;
     border: 3px solid #ffffff;
 }
 
 /* --- introduction --- */
-.intro {
+.intro{
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
 }
 
 /* --- red class --- */
-.red {
+.red{
   background-color: #ff0000;
   text-align: right;
   margin-left: 50px;
@@ -59,7 +59,7 @@ div {
 }
 
 /* --- blue class --- */
-.blue {
+.blue{
   background-color: #0000ff;
   text-align: left;
   margin-right: 50px;
